@@ -1,0 +1,20 @@
+nav {
+  background-color: #006080;
+}
+
+header {
+  padding-top:4em;
+  height:30em;
+  background-color: #b3ecff;
+}
+main {
+  margin:2em;
+}
+
+.ninety-width {
+  width:100%;
+}
+
+.h1-name {
+  margin-top:1em;
+}
