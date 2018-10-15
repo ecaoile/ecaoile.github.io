@@ -9,8 +9,12 @@
 #profile-pic {
   max-width:200px;
 }
-/* 
-.profile-box {
-  padding:1em;
-  /* text-align: center; */
-} */
+
+#portfolio {
+  background-color: #1f7a7a;
+  color: white;
+  padding: 2em;
+}
+#portfolio i {
+  font-size: 3em;
+}

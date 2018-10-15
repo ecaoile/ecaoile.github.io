@@ -2,25 +2,22 @@ nav {
   background-color: #006080;
 }
 
-header {
+#name-and-title {
   padding-top:4em;
   height: 100vh;
   background-color: #b3ecff;
 }
 
 @media only screen and (min-width: 310px){
-  header {
+  #name-and-title  {
     height: 35em;
   }   
 }
 
 @media only screen and (min-width: 770px){
-  header {
+  #name-and-title  {
     height: 25em;
   }   
-}
-main {
-  margin:2em;
 }
 
 .ninety-width {
