@@ -4,8 +4,20 @@ nav {
 
 header {
   padding-top:4em;
-  height:30em;
+  height: 100vh;
   background-color: #b3ecff;
+}
+
+@media only screen and (min-width: 310px){
+  header {
+    height: 35em;
+  }   
+}
+
+@media only screen and (min-width: 770px){
+  header {
+    height: 25em;
+  }   
 }
 main {
   margin:2em;
@@ -13,8 +25,4 @@ main {
 
 .ninety-width {
   width:100%;
-}
-
-.h1-name {
-  margin-top:1em;
 }
