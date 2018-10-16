@@ -1,7 +1,10 @@
 nav, footer {
   background-color: #006080;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 main {
   padding-top:1.5em;
 }
@@ -17,11 +20,14 @@ main {
   }   
 }
 
+<<<<<<< HEAD
 @media only screen and (min-width: 530px){
   #name-and-title  {
     height: 35em;
   }   
 }
+=======
+>>>>>>> master
 @media only screen and (min-width: 768px){
   #name-and-title  {
     height: 25em;
@@ -40,11 +46,17 @@ footer {
 #profile-pic {
   max-width:200px;
 }
+<<<<<<< HEAD
 
 #name-and-title, #portfolio, #about {
   padding: 3em;
 }
 
+=======
+#portfolio, #about {
+  padding: 3em;
+}
+>>>>>>> master
 #portfolio {
   background-color: #1f7a7a;
   color: white;
