@@ -12,18 +12,14 @@ main {
 
 @media only screen and (min-width: 310px){
   #name-and-title  {
-    height: 35em;
+    height: 38em;
   }   
 }
 
-@media only screen and (min-width: 770px){
+@media only screen and (min-width: 768px){
   #name-and-title  {
     height: 25em;
   }   
-}
-
-.ninety-width {
-  width:100%;
 }
 
 footer {
