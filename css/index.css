@@ -1,0 +1,25 @@
+/* #h1-name {
+  margin-top:1em;
+} */
+
+#typed-title-loc {
+  color:#009999;
+}
+
+#profile-pic {
+  max-width:200px;
+}
+
+#portfolio {
+  background-color: #1f7a7a;
+  color: white;
+  padding: 3em;
+}
+
+#portfolio a {
+  color:white;
+}
+
+#portfolio i {
+  font-size: 3em;
+}
