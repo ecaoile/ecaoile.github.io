@@ -1,7 +1,9 @@
-nav {
+nav, footer {
   background-color: #006080;
 }
-
+main {
+  padding-top:1.5em;
+}
 #name-and-title {
   padding-top:4em;
   height: 100vh;
@@ -22,4 +24,9 @@ nav {
 
 .ninety-width {
   width:100%;
+}
+
+footer {
+  color:white;
+  padding:2em;
 }

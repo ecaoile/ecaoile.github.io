@@ -13,8 +13,13 @@
 #portfolio {
   background-color: #1f7a7a;
   color: white;
-  padding: 2em;
+  padding: 3em;
 }
+
+#portfolio a {
+  color:white;
+}
+
 #portfolio i {
   font-size: 3em;
 }
