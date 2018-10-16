@@ -1,6 +1,37 @@
-/* #h1-name {
-  margin-top:1em;
-} */
+nav, footer {
+  background-color: #006080;
+}
+
+main {
+  padding-top:1.5em;
+}
+#name-and-title {
+  padding-top:4em;
+  height: 100vh;
+  background-color: #b3ecff;
+}
+
+@media only screen and (min-width: 310px){
+  #name-and-title  {
+    height: 38em;
+  }   
+}
+
+@media only screen and (min-width: 530px){
+  #name-and-title  {
+    height: 35em;
+  }   
+}
+@media only screen and (min-width: 768px){
+  #name-and-title  {
+    height: 25em;
+  }   
+}
+
+footer {
+  color:white;
+  padding:2em;
+}
 
 #typed-title-loc {
   color:#009999;
@@ -10,10 +41,13 @@
   max-width:200px;
 }
 
+#name-and-title, #portfolio, #about {
+  padding: 3em;
+}
+
 #portfolio {
   background-color: #1f7a7a;
   color: white;
-  padding: 3em;
 }
 
 #portfolio a {
