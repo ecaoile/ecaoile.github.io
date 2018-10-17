@@ -27,5 +27,5 @@ The following is required to run the program.
 ## Architecture
 This application is created pure with front end development languages and tools. <br />
 *Languages*: C#, HTML, CSS <br />
-*Libraries and Frameworks*: Bootstrap, jQuery, Typed, Font Awesome
+*Libraries and Frameworks*: Bootstrap, jQuery, Typed, Font Awesome <br />
 *Type of Application*: Web Application <br />
