@@ -10,5 +10,5 @@ var typedTitle = new Typed("#typed-title-loc", {
 var typedLang = new Typed("#typed-lang-loc", {
   // Waits 1000ms after typing "First"
   stringsElement: '#typed-languages',
-  typeSpeed: 30,
+  typeSpeed: 20,
 });
