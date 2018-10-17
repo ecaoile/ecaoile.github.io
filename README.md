@@ -1,5 +1,5 @@
 # Software Developer Portfolio
-Open portfolio for resume
+Website for people to see samples of my software applications and get to know a little bit about me.
 
 **Author**: Earl Jay Caoile <br />
 **Version**: 1.0.0
@@ -13,11 +13,11 @@ The following is required to run the program.
 2. An internet connection.
 3. A web browser to view the contents.
 
-## Example
-![portfolio intro](portfolio-intro-ss.png) <br />
-![portfolio projects](Lab13-SS2.jpg) <br />
-![portfolio about](Lab13-SS3.jpg) <br />
-![portfolio footer](Lab13-SS4.jpg) <br />
+## Visuals
+![portfolio intro](./assets/portfolio-intro-ss.png) <br />
+![portfolio projects](./assets/portfolio-projects-ss.png) <br />
+![portfolio about](./assets/portfolio-about-ss.png) <br />
+![portfolio footer](./assets/portfolio-footer-ss.png) <br />
 
 ## Happy path
 - open html file in a browser
