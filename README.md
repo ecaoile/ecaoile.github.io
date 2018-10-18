@@ -5,7 +5,7 @@ Website for people to see samples of my software applications and get to know a 
 **Version**: 1.0.0
 
 ## Overview
-This front end web applications serves as a portfolio for users to view my past projects and  connect with me.
+This front end web applications serves as a portfolio for users to view my past projects and connect with me.
 
 ## Getting Started
 The following is required to run the program.
@@ -29,3 +29,8 @@ This application is created pure with front end development languages and tools.
 *Languages*: HTML, CSS, JavaScript <br />
 *Libraries and Frameworks*: Bootstrap, jQuery, Typed, Font Awesome <br />
 *Type of Application*: Web Application <br />
+
+## References
+- [Bootstrap CDN](https://www.bootstrapcdn.com/)
+- [research on how to get href value with jQuery](https://stackoverflow.com/questions/2098408/how-to-get-href-value-using-jquery)
+- [Typed.js documentation](https://github.com/mattboldt/typed.js/)

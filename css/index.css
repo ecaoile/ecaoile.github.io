@@ -2,18 +2,14 @@ nav, footer {
   background-color: #006080;
 }
 
-main {
-  padding-top:1.5em;
-}
-
-#name-and-title {
-  padding-top:4em;
-  background-color: #b3ecff;
-}
-
 #name-and-title, #portfolio, #about, footer {
   padding-top: 3em;
   padding-bottom:3em;
+}
+
+#name-and-title {
+  background-color: #b3ecff;
+  padding-top: 4.5em;
 }
 
 footer {
