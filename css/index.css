@@ -1,41 +1,19 @@
 nav, footer {
   background-color: #006080;
 }
-main {
-  padding-top:1.5em;
+
+#name-and-title, #portfolio, #about, footer {
+  padding-top: 3em;
+  padding-bottom:3em;
 }
+
 #name-and-title {
-  padding-top:4em;
-  height: 55em;
   background-color: #b3ecff;
-}
-
-@media only screen and (min-width: 200px){
-  #name-and-title  {
-    height: 44em;
-  }   
-}
-
-/* @media only screen and (min-width: 310px){
-  #name-and-title  {
-    height: 42em;
-  }   
-} */
-
-@media only screen and (min-width: 530px){
-  #name-and-title  {
-    height: 35em;
-  }   
-}
-@media only screen and (min-width: 768px){
-  #name-and-title  {
-    height: 25em;
-  }   
+  padding-top: 4.5em;
 }
 
 footer {
   color:white;
-  padding:2em;
 }
 
 #typed-title-loc {
@@ -44,10 +22,6 @@ footer {
 
 #profile-pic {
   max-width:200px;
-}
-
-#name-and-title, #portfolio, #about {
-  padding: 3em;
 }
 
 #portfolio {
