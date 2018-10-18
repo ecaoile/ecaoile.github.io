@@ -1,9 +1,11 @@
 nav, footer {
   background-color: #006080;
 }
+
 main {
   padding-top:1.5em;
 }
+
 #name-and-title {
   padding-top:4em;
   background-color: #b3ecff;
