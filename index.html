@@ -167,8 +167,15 @@
       $('#connect-link').hide().delay(2000).fadeIn(850);
     });
 
-    $('.navbar-nav>li>a').on('click', function () {
-      $('.navbar-collapse').collapse('hide');
+    // $('.navbar-nav>li>a').on('click', function () {
+    //   $('.navbar-collapse').collapse('hide');
+    // });
+  </script>
+  <script>
+    $('a.nav-link').on('click', function () {
+      $('.btn-navbar').click(); //bootstrap 2.x
+      $('.navbar-toggle').click(); //bootstrap 3.x by Richard
+      $('.navbar-toggler').click(); //bootstrap 4.x
     });
   </script>
 </body>
