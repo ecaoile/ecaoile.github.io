@@ -1,10 +1,14 @@
+main {
+  position: relative;
+}
+
 nav, footer {
   background-color: #006080;
 }
 
 #name-and-title, #portfolio, #about, footer {
-  padding-top: 3em;
-  padding-bottom:3em;
+  padding-top: 2.75em;
+  padding-bottom: 2.75em;
 }
 
 #name-and-title {

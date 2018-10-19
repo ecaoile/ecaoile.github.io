@@ -1,5 +1,11 @@
 'use strict';
 
+// using Bootstrap's scrollspy to toggle active nav item
+$('body').scrollspy({ target: '#top-nav', offset: 55 })
+$('[data-spy="scroll"]').each(function () {
+  var $spy = $(this).scrollspy('refresh')
+});
+
 // typed text that appears on page load in the intro section
 var typedTitle = new Typed("#typed-title-loc", {
   stringsElement: '#typed-title',
@@ -20,13 +26,13 @@ $(document).ready(function () {
 // handles the behavior when clicking a nav item in the navbar
 $('a.nav-link').on('click', function () {
   // collapses the navbar on nav item click
-  $('.btn-navbar').click(); //bootstrap 2.x
-  $('.navbar-toggle').click(); //bootstrap 3.x by Richard
-  $('.navbar-toggler').click(); //bootstrap 4.x
+  // $('.btn-navbar').click(); //bootstrap 2.x
+  // $('.navbar-toggle').click(); //bootstrap 3.x by Richard
+  // $('.navbar-toggler').click(); //bootstrap 4.x
 
-  // adds active class on nav link item when clicked
-  $('a.nav-link').removeClass('active');
-  $(this).closest('a.nav-link').addClass('active');
+  // // adds active class on nav link item when clicked
+  // $('a.nav-link').removeClass('active');
+  // $(this).closest('a.nav-link').addClass('active');
 
   // does a smooth scroll to the chosen section rather instantly moving to the section
   var href = $(this).attr('href');
@@ -35,33 +41,3 @@ $('a.nav-link').on('click', function () {
   },
     'slow');
 });
-
-// Cache selectors
-// var topMenu = $("nav"),
-//   topMenuHeight = topMenu.outerHeight() + 15,
-//   // All list items
-//   menuItems = topMenu.find("a"),
-//   // Anchors corresponding to menu items
-//   scrollItems = menuItems.map(function () {
-//     var item = $($(this).attr("href"));
-//     if (item.length) { return item; }
-//   });
-
-// // Bind to scroll
-// $(window).scroll(function () {
-//   // Get container scroll position
-//   var fromTop = $(this).scrollTop() + topMenuHeight;
-
-//   // Get id of current scroll item
-//   var cur = scrollItems.map(function () {
-//     if ($(this).offset().top < fromTop)
-//       return this;
-//   });
-//   // Get the id of the current element
-//   cur = cur[cur.length - 1];
-//   var id = cur && cur.length ? cur[0].id : "";
-//   // Set/remove active class
-//   menuItems
-//     .parent().removeClass("active")
-//     .end().filter("[href='#" + id + "']").parent().addClass("active");
-// });​
