@@ -34,3 +34,6 @@ This application is created pure with front end development languages and tools.
 - [Bootstrap CDN](https://www.bootstrapcdn.com/)
 - [research on how to get href value with jQuery](https://stackoverflow.com/questions/2098408/how-to-get-href-value-using-jquery)
 - [Typed.js documentation](https://github.com/mattboldt/typed.js/)
+- [research on how to change active menu item on page scroll](https://stackoverflow.com/questions/9979827/change-active-menu-item-on-page-scroll)
+- [research on how to change menu item on nav item click](https://stackoverflow.com/questions/41660461/add-active-class-to-section-of-menu)
+- [research on how to use scrollspy to toggle active nav item](https://getbootstrap.com/docs/4.0/components/scrollspy/)
