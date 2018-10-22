@@ -36,3 +36,7 @@ footer {
 #portfolio i {
   font-size: 3em;
 }
+
+main {
+  min-width:90vh;
+}
