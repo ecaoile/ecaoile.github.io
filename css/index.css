@@ -1,42 +1,52 @@
+/* colors for the navbar and footer */
 nav, footer {
   background-color: #006080;
 }
 
+/* creates spacing between each of the sections */
 #name-and-title, #portfolio, #about, footer {
   padding-top: 2.75em;
   padding-bottom: 2.75em;
 }
 
+/* color and extra spacing for the first section */
 #name-and-title {
   background-color: #b3ecff;
   padding-top: 4.5em;
 }
 
+/* color for the footer */
 footer {
   color:white;
 }
 
+/* color for the font that displays title */
 #typed-title-loc {
   color:#009999;
 }
 
+/* prevent picture from blowing up */
 #profile-pic {
-  max-width:200px;
+  max-width:225px;
 }
 
+/* colors for the projects section */
 #portfolio {
   background-color: #1f7a7a;
   color: white;
 }
 
+/* extra rule to get the anchor tag font to also be white */
 #portfolio a {
   color:white;
 }
 
+/* bigger icons for portfolio projects */
 #portfolio i {
   font-size: 3em;
 }
 
+/* forces the footer to always be at the bottom of a page */
 main {
-  min-width:90vh;
+  min-height:90vh;
 }
