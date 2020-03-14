@@ -5,10 +5,9 @@
 
 2. What is the difference between a module and a package?
 
-- module: pieces of JavaScript code called in another file or chunk of code
-- package: allows developers to make complex code, publish it, and share packages for other developers
-
-Packages are more complicated and are shared to other developers from outside the repo (using npm). Modules are smaller in scale and exist within the repo originally.
+- module: piece of JavaScript code called in another file or chunk of code.
+- package: allows developers to make complex code, publish it, and share packages for other developers.
+- Packages are more complicated and are shared to other developers from outside the repo (using npm). Modules are smaller in scale and exist within the repo originally.
 
 3. What is one benefit of Test Driven Development?
    Test driven development allows developers to verify that their code does what they think it does.
