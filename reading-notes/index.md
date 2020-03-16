@@ -30,4 +30,7 @@ Oh man, I did terribly in this class
 
 ### Second JavaScript attempt
 
-- I don't get this GitHub pages stuff
+I don't get this GitHub pages stuff
+1. [class 01 reading](class-01-reading.md)
+2. [class 02 reading](class-02-reading.md)
+
