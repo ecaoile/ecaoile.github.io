@@ -37,3 +37,4 @@ I don't get this GitHub pages stuff
 3. [class 03 reading](class-03-reading.md)
 4. [class 04 reading](class-04-reading.md)
 5. [class 05 reading](class-05-reading.md)
+6. [class 06 reading](class-06-reading.md)
