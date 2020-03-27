@@ -8,7 +8,7 @@ I never took this.
 
 ## Code 201 - Foundations of Software Development
 
-A long, logn time ago...
+A long, long time ago...
 
 ## Code 301 - Intermediate Software Development
 

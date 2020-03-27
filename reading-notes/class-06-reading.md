@@ -10,7 +10,7 @@
 - contains method, URL, and HTTP version
 - followed by headers (key value pair) separated by a newline character
 - optionally followed by body
-- safe methods: used for retrieval and don't change state
+- **safe methods**: used for retrieval and don't change state
 - **idempotent**: two identical requests get identical response
 - **cacheable**: clients can cache the response
 
