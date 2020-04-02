@@ -22,3 +22,5 @@ var reverseList = function(head) {
 ```
 
 It's not optimal, but I figure I'd show this just to open up anyone's mind who reads this.
+
+[Return to Index](index.md)
