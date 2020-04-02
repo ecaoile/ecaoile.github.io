@@ -16,7 +16,9 @@
 
    In addition to increasing your attack speed in some video games, mongoose serves as a translator that converts our JavaScript speak into a language that MongoDB understands. It comes with some validity checks to mimic SQL goodness.
 
-5. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the contraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
+5. Define three related pieces of data in a possible application.
+
+   An example for a store application might be Product, Category and Department. Describe the contraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
 
    An example of 3 related pieces of data would be Company, Employee, and Project. The Employees belong to a Company, and Employees can also be assigned to a project. The Project could either belong to the same company, or in the case of vendors, could belong to a separate client (think dirty Microsoft vendors like me).
 
@@ -52,3 +54,5 @@
    ```
 
    I'm a little iffy on having members in Projects. It might be unnecessary bloat if we could always just associate project to member by looking up the project ID from the projects array.
+
+   [Return to Index](index.md)

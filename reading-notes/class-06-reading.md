@@ -15,3 +15,5 @@
 
 5. Why is REST important?
    It provides some kind standardization on how API endpoints should be created. This makes it easier for developers to understand how to develop and access endpoints.
+
+   [Return to Index](index.md)
