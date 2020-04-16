@@ -15,3 +15,5 @@
 4. Why do stacks and queues not have traversal or searching operations?
 
    You're not supposed to use stacks and queues for traversal or searching. If you are, you're using the wrong data structure. Adding those features makes the data structure more complex.
+
+   [Return to Index](index.md)
