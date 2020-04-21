@@ -43,3 +43,4 @@ I don't get this GitHub pages stuff
 9. [class 09 reading](class-09-reading.md)
 10. [class 10 reading](class-10-reading.md)
 11. [class 11 reading](class-11-reading.md)
+12. [class 12 reading](class-12-reading.md)
