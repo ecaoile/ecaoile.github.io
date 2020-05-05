@@ -47,3 +47,4 @@ I don't get this GitHub pages stuff
 13. [class 13 reading](class-13-reading.md)
 14. [class 14 reading](class-14-reading.md)
 15. [class 15 reading](class-15-reading.md)
+16. [class 16 reading](class-16-reading.md)
