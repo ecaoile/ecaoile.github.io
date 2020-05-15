@@ -50,3 +50,4 @@ I don't get this GitHub pages stuff
 16. [class 16 reading](class-16-reading.md)
 17. [class 17 reading](class-17-reading.md)
 18. [class 18 reading](class-18-reading.md)
+19. [class 19 reading](class-19-reading.md)
