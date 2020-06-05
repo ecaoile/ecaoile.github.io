@@ -18,6 +18,6 @@
 
 5.  What is one thing a framework does that a library doesn’t do?
 
-    A frame work can control when certain pieces of code are called.
+    A framework can control when certain pieces of code are called. Library: chart.js, ecosystem; Node, framework: React
 
 [Return to Index](index.md)
