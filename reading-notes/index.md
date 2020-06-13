@@ -54,3 +54,4 @@ I don't get this GitHub pages stuff
 20. no reading
 21. [class 21 reading](class-21-reading.md)
 22. [class 22 reading](class-22-reading.md)
+23. [class 23 reading](class-23-reading.md)
