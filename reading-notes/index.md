@@ -58,3 +58,4 @@ I don't get this GitHub pages stuff
 24. [class 24 reading](class-24-reading.md)
 25. [class 25 reading](class-25-reading.md)
 26. [class 26 reading](class-26-reading.md)
+27. [class 27 reading](class-27-reading.md)
