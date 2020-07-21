@@ -64,3 +64,4 @@ I don't get this GitHub pages stuff
 30. [class 30 reading](class-30-reading.md)
 31. [class 31 reading](class-31-reading.md)
 32. [class 32 reading](class-32-reading.md)
+33. [class 33 reading](class-33-reading.md)
